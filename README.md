@@ -1,1 +1,1 @@
-# class-166-project
+# PRO-C166-Boilerplate
